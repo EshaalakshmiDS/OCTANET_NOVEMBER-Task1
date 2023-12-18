@@ -24,6 +24,7 @@ Footer: Displays contact details and open hours for quick reference.<br>
 
 + HTML
 + CSS
++ Javascript
 + Bootstrap (3.3.7)
 
 ### Deployment
