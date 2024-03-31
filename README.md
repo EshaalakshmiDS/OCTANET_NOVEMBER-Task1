@@ -2,9 +2,8 @@
 
 The 1st project undertaken during my Web Development Internship at Octanet Services (Nov-2023) 
 
-## Project 1- Landing Page
-The assigned task was to build a Landing Page.<br>
-I aimed to create a website for a hair salon by employing HTML, CSS, JavaScript, and Bootstrap. The objective was to provide customers with a platform to search for salons based on their specific needs, including services, prices, operating hours, and location. Additionally, they could easily find contact information for booking appointments, and the website was designed to be responsive, ensuring it could be accessed on mobile devices, tablets, and desktops.
+## Tresses 
+Developed SalonHub, a dynamic web platform catering to a hair salon clientele, offering a seamless browsing experience to view an array of services, detailed pricing, operational schedules, and location specifics. Implemented intuitive features for effortless appointment booking, enhancing user engagement and convenience. Ensured cross-device compatibility through responsive design, optimizing accessibility on mobile devices, tablets, and desktops.
 
 ### Demo
 
