@@ -3,7 +3,7 @@ Developed SalonHub, a dynamic web platform catering to a hair salon clientele, o
 
 ### Demo
 
-A live demo can be found [here](https://eshaalakshmids.github.io/OCTANET_NOVEMBER-Task1/).
+A live demo can be found [here](https://eshaalakshmids.github.io/Tresses/).
 
 ### Structure & Design
 
