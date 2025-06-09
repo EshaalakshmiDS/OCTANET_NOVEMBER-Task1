@@ -1,8 +1,4 @@
-# OCTANET_NOVEMBER-TASK 1
-
-The 1st project undertaken during my Web Development Internship at Octanet Services (Nov-2023) 
-
-## Tresses 
+# Tresses 
 Developed SalonHub, a dynamic web platform catering to a hair salon clientele, offering a seamless browsing experience to view an array of services, detailed pricing, operational schedules, and location specifics. Implemented intuitive features for effortless appointment booking, enhancing user engagement and convenience. Ensured cross-device compatibility through responsive design, optimizing accessibility on mobile devices, tablets, and desktops.
 
 ### Demo
